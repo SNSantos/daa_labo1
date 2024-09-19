@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="mycolor1">#A9B4C2</color> <!-- Light grey/blue -->
+    <color name="mycolor2">#C8A383</color> <!-- Light brown -->
 </resources>
